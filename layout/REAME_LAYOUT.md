@@ -2,11 +2,11 @@
 
 ## flex box layout based on media query
 
-![image-20200625142619098](./image_mobile_first/image-20200625142619098.png)
+![image-20200625142619098](./image_readme/image-20200625142619098.png)
 
 When the width is less than 576px, this page will change to the style "mobile first"
 
-![image-20200625142808560](./image_mobile_first/image-20200625142808560.png)
+![image-20200625142808560](./image_readme/image-20200625142808560.png)
 
 
 
@@ -27,7 +27,7 @@ key point:
 
 ## Bootsrap layout
 
-![image-20200626161406956](./image_mobile_first/image-20200626161406956.png)
+![image-20200626161406956](./image_readme/image-20200626161406956.png)
 
 
 
@@ -37,4 +37,4 @@ We can see in the following picture that the page style is automatically adjuste
 
 
 
-![image-20200626161626454](./image_mobile_first/image-20200626161626454.png)
+![image-20200626161626454](./image_readme/image-20200626161626454.png)
